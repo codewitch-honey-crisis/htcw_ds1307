@@ -10,6 +10,6 @@ platform = espressif32
 board = node32s
 framework = arduino
 lib_deps = 
-	codewitch-honey-crisis/htcw_ds1307@^0.9.0
+	codewitch-honey-crisis/htcw_ds1307@^0.9.1
 lib_ldf_mode = deep
 ```

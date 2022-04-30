@@ -1,6 +1,6 @@
 {
     "name": "htcw_ds1307",
-    "version": "0.9.0",
+    "version": "0.9.1",
     "description": "Provides support for the DS1307 real time clock",
     "keywords": ["rtc","clock", "time", "date", "datetime"],
     "authors": {
